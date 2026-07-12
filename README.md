@@ -1,4 +1,12 @@
-# HERMES: A Desktop Environment, Reimagined as a Web App // Not a website pretending to be an OS. An OS that happens to run in one.
+![Hermes OS Logo](./assets/nonbg1.png)
+
+<div align="center">
+
+# HERMES: A Desktop Environment, Reimagined as a Web App
+
+*Not a website pretending to be an OS. An OS that happens to run in one.*
+
+</div>
 
 > [!CAUTION]
 > PROPRIETARY AND CONFIDENTIAL
